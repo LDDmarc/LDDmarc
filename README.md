@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LDDmarc
-- 👀 I’m interested in mobile apps, iOS, whatchOS
-- 🌱 I’m currently learning Swift, Objective-C sometimes :)
-- 💞️ I’m looking to collaborate on any interesting and useful project
+- 👀 I’m interested in mobile apps, iOS
+- 🌱 I’m currently learning SwiftUI and continue exploring Swift. 
+- 💞️ I’m open for collaboration on any interesting project
 - 📫 How to reach me https://t.me/marcushaldd
 
 <!---
